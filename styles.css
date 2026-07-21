@@ -1,0 +1,92 @@
+#header {
+    width: 100%;
+    background-color: bisque;
+    display: flex
+}
+nav{
+    text-align: center;
+    font-size: x-large;
+    width: 40%;
+    border: solid;        
+}
+
+.title {
+    color: green;
+    font-size: xx-large;
+    text-align: center;
+    width: 60%;    
+}
+h1{
+    border: solid;
+    margin-bottom: auto;
+    margin-top: auto;
+    background-color: floralwhite;
+    padding: 10px;
+    width: 20%
+}
+#mainDiv {
+    font-size: xxx-large;
+}
+p{
+    font-size: large;
+    background-color: floralwhite;
+    border: double 5px;
+    padding: 10px 2px;
+    width: 50%;
+}
+body{
+    background-color: beige;
+}
+ol, ul {
+    font-size: larger;
+    background-color: floralwhite;
+    border: double 5px;
+    padding: 10px 30px; 
+    width: 50%;
+    height: 25pc;
+    align-items: center;display: grid
+}
+img{
+    height: 700px;
+    border: double, 10px;   
+}
+.FAQimg {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+}
+.link {
+    display: inline-block;
+    padding: 12px 24px;
+    margin: 10px 0;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: antiquewhite;
+    border: groove black;    
+}
+.link:hover{
+    background-color: aqua;
+}
+a:active {
+    color: aqua;
+}
+.site-footer {
+  background-color: antiquewhite;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+    border: double black 5px;
+}
+
+.site-footer p {
+  color: black;
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    margin: 5px 0;
+    width: 100%;
+    font-size: medium;
+}
